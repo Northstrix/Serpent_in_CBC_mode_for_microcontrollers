@@ -2,9 +2,6 @@
 
 This repository contains code that enables you to easily integrate the Serpent encryption algorithm in CBC mode to your project.
 
-## Copyright/Ownership/Licenses
-
-The library with the implementation of [serpent](https://github.com/peterferrie/serpent) by [peterferrie](https://github.com/peterferrie) is the propert of its rightful owner.
 
 ## Compatibility
 
@@ -34,6 +31,9 @@ The code was successfully tested on the following boards:
   Serial.println(string_for_data);
 ```
 
+## Copyright/Ownership
+
+The library with the implementation of [serpent](https://github.com/peterferrie/serpent) by [peterferrie](https://github.com/peterferrie) is the propert of its rightful owner.
 
 Original License:
 
