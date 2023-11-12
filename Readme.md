@@ -4,7 +4,7 @@ This repository contains code that enables you to easily integrate the Serpent e
 
 ## Copyright/Ownership/Licenses
 
-The library with the implementation of [serpent](https://github.com/peterferrie/serpent) by [peterferrie](https://github.com/peterferrie) is the propert of its rightful owner
+The library with the implementation of [serpent](https://github.com/peterferrie/serpent) by [peterferrie](https://github.com/peterferrie) is the propert of its rightful owner.
 
 ## Compatibility
 
@@ -32,7 +32,6 @@ The code was successfully tested on the following boards:
   decrypt_string_with_serpent_in_cbc(ciphertext); // Decrypt data
   Serial.println("Plaintext:");
   Serial.println(string_for_data);
-
 ```
 
 
@@ -76,7 +75,7 @@ Rounds            32
   ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
   POSSIBILITY OF SUCH DAMAGE.
 
-Parts of the code written by me are covered by the MIT License:
+Part of the code written by me (Northstrix) is covered by the MIT License:
 
 MIT License
 
