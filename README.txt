@@ -1,4 +1,5 @@
 # Serpent_in_CBC_mode_for_microcontrollers
+
 This repository contains code that enables you to easily integrate the Serpent encryption algorithm in CBC mode to your project.
 
 ## Copyright/Ownership/Licenses
@@ -16,6 +17,7 @@ The code was successfully tested on the following boards:
 
 ## Usage
 
+
 ```
   Serial.println("\nEncryption/Decryption Test:");
   String plaintext = "This string is encrypted with Serpent in Cipher Block Chaining mode!"; // String to be encrypted
@@ -30,6 +32,7 @@ The code was successfully tested on the following boards:
   decrypt_string_with_serpent_in_cbc(ciphertext); // Decrypt data
   Serial.println("Plaintext:");
   Serial.println(string_for_data);
+
 ```
 
 
