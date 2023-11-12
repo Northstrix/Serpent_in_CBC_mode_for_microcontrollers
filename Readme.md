@@ -41,7 +41,7 @@ The code was successfully tested on the following boards:
 
 The library with the implementation of [serpent](https://github.com/peterferrie/serpent) by [peterferrie](https://github.com/peterferrie) is the propert of its rightful owner.
 
-Original License:
+License N1
 
 Designers         Ross Anderson, Eli Biham, Lars Knudsen
 First published   1998
@@ -81,7 +81,7 @@ Rounds            32
   ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
   POSSIBILITY OF SUCH DAMAGE.
 
-Part of the code written by me (Northstrix) is covered by the MIT License:
+License N2
 
 MIT License
 
