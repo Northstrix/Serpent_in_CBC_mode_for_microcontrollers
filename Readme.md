@@ -2,6 +2,8 @@
 
 This repository contains code that enables you to easily integrate the Serpent encryption algorithm in CBC mode to your project.
 
+You can also get this code from SourceForge: https://sourceforge.net/projects/serpent-in-cbc-mode-for-mcus/
+
 
 ## Compatibility
 
