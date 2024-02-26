@@ -32,6 +32,8 @@ The code was successfully tested on the following boards:
   Serial.println("Plaintext:");
   Serial.println(string_for_data);
 ```
+
+!!! When you call either "encrypt_string_with_serpent_in_cbc(plaintext, iv)" or "decrypt_string_with_serpent_in_cbc(ciphertext)" the String "string_for_data" is cleared.
 ![image text](https://github.com/Northstrix/Serpent_in_CBC_mode_for_microcontrollers/blob/master/Pictures/Encryption%20and%20Decryption%20test.png)
 
 ## Visual representation of the encryption process
