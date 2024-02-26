@@ -39,7 +39,7 @@ The code was successfully tested on the following boards:
 
 ## Copyright/Ownership
 
-The library with the implementation of [serpent](https://github.com/peterferrie/serpent) by [peterferrie](https://github.com/peterferrie) is the propert of its rightful owner.
+The library with the implementation of [serpent](https://github.com/peterferrie/serpent) by [peterferrie](https://github.com/peterferrie) is the property of its rightful owner.
 
 License N1
 
@@ -85,7 +85,7 @@ License N2
 
 MIT License
 
-Copyright (c) 2023 Maxim Bortnikov
+Copyright © 2024 Maxim Bortnikov
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
